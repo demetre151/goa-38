@@ -1,0 +1,1 @@
+"demetre"#es aris stringi "msgdeo"stringi aris simboloebi romlebic iwereba brwyalebshi 
