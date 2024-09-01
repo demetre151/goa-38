@@ -11,7 +11,7 @@ left(90)
 forward(120)
 left(                                            90    )
 forward(75)
-r
+
 
 
 
