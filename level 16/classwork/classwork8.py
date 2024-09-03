@@ -1,0 +1,1 @@
+#pseudocode-aris codi romelsac adamianebi xedavs da winaswar adgens cods
