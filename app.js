@@ -28,4 +28,4 @@ const kidsHelp = (num) => {
 
     }
 }
-kidsHelp(31)
+kidsHelp(40)
