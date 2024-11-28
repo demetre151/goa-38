@@ -1,4 +1,4 @@
-number = 12
+wwnumber = 12
 print(type(number))      
 
 
