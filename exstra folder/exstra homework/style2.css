@@ -1,0 +1,29 @@
+body{
+    background-color: darkblue
+    
+}
+.p1{
+    background-color: red;
+    margin: 20px;
+    padding: 20px;
+}
+.p2{
+    background-color: lawngreen;
+    margin: 20px;
+    padding: 20px;
+}
+.p3{
+    background-color: aquamarine;
+    margin: 20px ;
+    padding: 20px;
+}
+.p4{
+   background-color: purple;
+   margin: 20px;
+   padding: 20px;
+}
+.p5{
+    background-color:tomato;
+    margin: 20px;
+    padding: 20px;
+}

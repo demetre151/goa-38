@@ -1,0 +1,5 @@
+my_list = ("vaja", "daviti", "luka", "giorgi", "demetre")
+print(my_list[-1], my_list[-2],my_list[-5],my_list[-4],my_list[-3])
+print("----------------------------------------------------------------------------------------------------------------------------")
+my_list2 = ("ronaldo", "messi", "rivaldo", "halland", "zidane")
+print(my_list2[0],my_list2[1],my_list2[2],my_list2[3],my_list2[4])
